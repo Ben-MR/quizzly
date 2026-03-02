@@ -1,0 +1,17 @@
+.env
+
+# virtual environment
+venv/
+.venv/
+
+
+# database (optional ignorieren!)
+db.sqlite3
+db.sqlite3-journal
+
+# python cache
+__pycache__/
+*.pyc
+
+dockerfile
+.dockerignore
