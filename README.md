@@ -156,6 +156,7 @@ Install via APT:
 ``` bash
 sudo apt update
 sudo apt install ffmpeg
+```
 
 ### Filtering (Sidebar Support)
 The quiz list endpoint supports time-based filtering via query parameters:
